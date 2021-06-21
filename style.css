@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-color:#F44336
+  }
+  #heading{
+    font-variant:small-caps;
+    font-size:80px;
+    color:#536DFE;
+  }
+  #next_button{
+    margin-top:30px;
+    font-size:20px;
+    font-variant:small-caps;
+    color:#2962FF
+  }
+  #img_one{
+    width:450px;
+    border-style:solid;
+    border-width:7px;
+    border-color:#FFF59D;
+    padding:7px;
+  }
+  
